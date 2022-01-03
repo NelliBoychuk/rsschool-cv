@@ -49,4 +49,4 @@ No experience in Web Development yet.
 
 ## Languages
 * Russian (Native)
-* English (B2)
+* English B2
