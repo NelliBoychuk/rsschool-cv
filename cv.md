@@ -48,5 +48,5 @@ I have got interested in Web Development in the last few months. That is somethi
 No experience in Web Development yet.
 
 ## Languages
-* Russian (Native)
+* Russian Native
 * English B2
